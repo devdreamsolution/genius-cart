@@ -1,4 +1,5 @@
-# GeniusCart (https://codecanyon.net/user/geniusocean)
+# GeniusCart
+[Live Demo]((https://codecanyon.net/item/geniuscart-single-or-multivendor-ecommerce-system-with-physical-and-digital-product-marketplace/24089099))
 Laravel GeniusCart
 GeniusCart
 GeniusCart - Single or Multivendor Ecommerce System with Physical and Digital Product Marketplace
